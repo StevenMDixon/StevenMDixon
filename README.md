@@ -1,6 +1,6 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevendixondev)
 
-Book List:
+Currently Reading:
 - The progmatic Programmer
 - Grokking Algorithms
 - Clean Code
