@@ -1,9 +1,18 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevendixondev)
 
-Currently Reading:
-- The progmatic Programmer
-- Grokking Algorithms
-- Clean Code
+Summer Reading List:
+[x] The pragmatic Programmer
+[x] Grokking Algorithms
+[x] Clean Code
+[ ] Programming Pearls
+[ ] Refactoring
+[ ] Design Patterns
+
+What I am Learning
+- .Net Core 6
+- Entity Framework
+- Azure Fundamentals
+
 <!--
 **StevenDixonDev/StevenDixonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
