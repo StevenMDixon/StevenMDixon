@@ -1,18 +1,17 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenmdixon)
 
-Summer Reading List:
+📚 Reading List:
 
-- [x] The pragmatic Programmer
-- [x] Grokking Algorithms
-- [x] Clean Code
 - [ ] Programming Pearls
 - [ ] Refactoring
 - [ ] Design Patterns
+- [ ] Fundementals software architecture
+- [ ] Structure and Interpretation of Computer Programs
 
-What I am Learning
-- .Net Core 6
-- Entity Framework
-- Azure Fundamentals
+💡 What I am Learning
+- [ ] .Net Core 6
+- [ ] Entity Framework
+- [x] Azure Fundamentals
 
 <!--
 **StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
