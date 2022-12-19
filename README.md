@@ -1,4 +1,4 @@
-![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevendixondev)
+![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenmdixon)
 
 Summer Reading List:
 
@@ -15,7 +15,7 @@ What I am Learning
 - Azure Fundamentals
 
 <!--
-**StevenDixonDev/StevenDixonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
