@@ -3,7 +3,7 @@
 :star: 2023 Goals
 - [ ] Participate in a Game Jam
 - [ ] Create a web app
-- [ ] finish my reading list
+- [ ] Finish my reading list
 
 
 📚 Reading List:
