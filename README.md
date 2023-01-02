@@ -1,7 +1,12 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenmdixon)
 
-📚 Reading List:
+:star: 2023 Goals
+- [ ] Participate in a Game Jam
+- [ ] Create a web app
+- [ ] finish my reading list
 
+
+📚 Reading List:
 - [ ] Programming Pearls
 - [ ] Refactoring
 - [ ] Design Patterns
