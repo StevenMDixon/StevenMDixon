@@ -16,7 +16,7 @@
 💡 What I am Learning
 - [ ] .Net Core 6
 - [ ] Entity Framework
-- [x] Azure Fundamentals
+- [ ] Bit vectors && Binary
 
 <!--
 **StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
