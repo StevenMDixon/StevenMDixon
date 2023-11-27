@@ -1,5 +1,10 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=stevenmdixon)
 
+About me: 
+
+Hello, my name is Steven and I am currently a software engineer at Rev.io. 
+My current interests are programming, 3d modeling, wood working, and board games.
+
 📚 Reading List:
 - [ ] Programming Pearls
 - [ ] Refactoring
@@ -10,7 +15,7 @@
 💡 What I am Learning
 - [ ] .Net Core 6
 - [ ] Entity Framework
-- [ ] Bit vectors && Binary
+- [x] Bit vectors && Binary
 
 <!--
 **StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
