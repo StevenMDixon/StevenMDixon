@@ -12,11 +12,6 @@ My current interests are programming, 3d modeling, wood working, and board games
 - [ ] Fundementals software architecture
 - [ ] Structure and Interpretation of Computer Programs
 
-💡 What I am Learning
-- [ ] .Net Core 6
-- [ ] Entity Framework
-- [x] Bit vectors && Binary
-
 <!--
 **StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
