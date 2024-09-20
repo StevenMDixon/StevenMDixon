@@ -2,15 +2,12 @@
 
 About me: 
 
-Hello, my name is Steven and I am currently a software engineer at Rev.io. 
-My current interests are programming, 3d modeling, wood working, and board games.
+My name is Steven Dixon and I am currently a Software Engineer at Rev.io. 
 
-📚 Reading List:
-- [ ] Programming Pearls
-- [ ] Refactoring
-- [ ] Design Patterns
-- [ ] Fundementals software architecture
-- [ ] Structure and Interpretation of Computer Programs
+My current hobbies and interests are:
+- Programming (C, C#, Javascript, and Python)
+- 3D Modeling & Printing (I have 2 Ender 3's and my modeling software of choice is FreeCad)
+- Board Games (Favorite game right now is Root)
 
 <!--
 **StevenMDixon/StevenMDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
