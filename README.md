@@ -2,7 +2,7 @@
 
 About me: 
 
-My name is Steven Dixon and I am currently a Software Engineer at Rev.io. 
+My name is Steven Dixon and I am currently a Software Engineer II at Rev.io. 
 
 My current hobbies and interests are:
 - Programming (C, C#, Javascript, and Python)
